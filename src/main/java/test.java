@@ -14,10 +14,10 @@ public class test {
 	public static void main(String[] args) {
 		
 		List<String> names = Arrays.asList("Jupiter", "Neptune", "Mars", "Earth");
-		Map<Integer, List<String>> name_lengths = names.stream()
-				.collect(Collectors.groupingBy(p -> p.length()));
-		name_lengths.forEach((l,s) -> System.out.println(l + "=" + s + " "));
-		System.out.println();
+//		Map<Integer, List<String>> name_lengths = names.stream()
+//				.collect(Collectors.groupingBy(p -> p.length()));
+//		name_lengths.forEach((l,s) -> System.out.println(l + "=" + s + " "));
+//		System.out.println();
 	}
 	
 	public static void old(){
