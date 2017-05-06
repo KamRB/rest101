@@ -33,7 +33,7 @@
     </script>
 </head>
 <body>
-    <p> this is the names</p>
+    <p> kam is god! <p>
      <button onclick="getAuthor()">Get Author1</button>
      <button onclick="getAuthor2()">Get Author2</button>
    <h1> JSON String</h1>
